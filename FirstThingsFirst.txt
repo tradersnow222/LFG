@@ -1,0 +1,7 @@
+SHopping List:
+
+Creating repo
+Create checklist
+Submit first PR
+Make first commit
+Fork first repo
