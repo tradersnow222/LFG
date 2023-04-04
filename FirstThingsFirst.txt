@@ -7,3 +7,4 @@ Make commit
 Fork repo
 Create branch
 Clone repo
+Create and close issue
