@@ -2,7 +2,8 @@ SHopping List:
 
 Creating repo
 Create checklist
-Submit first PR
-Make first commit
-Fork first repo
+Submit PR
+Make commit
+Fork repo
 Create branch
+Clone repo
