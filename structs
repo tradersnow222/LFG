@@ -1,0 +1,48 @@
+pragma solidity ^0.8.0;
+
+contract learnStructs{
+
+    struct Movie{
+        string title;
+        string director;
+        uint movie_id;
+    }
+
+    Movie movie;
+
+    function setMovie() public {
+        movie = Movie('Blade Runner','Ridley Scott',69);
+    } 
+
+    function getMovie_id() public view returns(uint) {
+        return movie.movie_id;
+    }
+}
+
+// EXCERCISE:
+// 1. create a new movie and set it up so that it updates to the movie in the setMovie function
+// 2. return the id of the new movie
+// 3. create a new var called comedy and set up comedy to the datatype Movie 
+// 4. update the setMovie function with a comedy movie that contain name, director, and an id
+// 5. return the movie id of the comedy. 
+
+contract learnStructs2 {
+
+    struct Movie{
+        string title;
+        string director;
+        uint movie_id;
+    }
+
+    Movie comedy;
+
+    function setMovie() public {
+        //movie = Movie('Bourne Identity','Doug Liman',44);
+        comedy = Movie('Zoolander','Ben Stiller', 3);
+    } 
+
+    function getMovie_id() public view returns(uint) {
+        return comedy.movie_id;
+    }
+}
+
