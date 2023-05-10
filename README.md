@@ -3,7 +3,7 @@
 This repo serves as an archive of my educational journey into web3 programming. 
 
 Course list (updated: May 7, 2023)
-- (In progress) // Udemy’s Complete Solidity Course Zero to expert 
+- (In progress: 88/192) // Udemy’s Complete Solidity Course Zero to expert 
 - (Incomplete) // Coursera’s Foundations of UX Design (Google Career Certificate)
 - (Incomplete) // Udemy's Complete Git and Github Beginner to expert 
 - (Incomplete) // Udemy's GitHub Actions - The complete guide 
