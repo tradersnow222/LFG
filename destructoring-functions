@@ -1,0 +1,16 @@
+pragma solidity ^0.8.0;
+
+contract DestructoringFunctions {
+
+        uint public changeValue;
+        string public tom = 'Hello';
+
+        function f() public pure returns (uint, bool, string memory) {
+            return (3, true, 'Goodye!');
+        }
+
+        function g() public {
+            (changeValue, , tom) = f();
+        }
+}
+
