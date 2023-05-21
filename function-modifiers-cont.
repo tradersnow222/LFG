@@ -1,0 +1,43 @@
+pragma solidity ^0.8.0;
+
+contract MyContract { 
+
+uint value;
+
+function setValue(uint _value) external  {
+    value = _value;
+}
+function getValue() external view returns(uint) {
+    return value;
+}
+
+function getNewValue() external pure returns(uint) {
+    return 3 + 3;
+}
+}
+
+/* Excercise:
+1. create a function called "multiply" which returns 3 multiplied by 7.
+2. Create another function called valuePlusThree which returns the state variable value + 3.
+3. Successfully deploy the contracts and test for the results.
+**Use the appropriate modifying keywords accordingly!!!!!!!
+*/
+
+contract pureView {
+
+    uint value;
+
+    function setValue(uint _value) external  {
+    value = _value;
+    }
+
+    function multiply() external pure returns(uint) {
+        return 3 * 7;
+    }
+
+    function valuePlusThree() external view returns(uint) {
+        return value + 3;
+    }
+
+
+}
