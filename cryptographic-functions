@@ -22,7 +22,7 @@ Exercise: (Secure Random Functionality From Miner Manipulation):
 */
 
 
-contract GenerateRandomNumber {
+contract MyFirstRandomNumberGenerator {
 
     Oracle oracle;
 
