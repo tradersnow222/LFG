@@ -21,7 +21,7 @@ Exercise: (Secure Random Functionality From Miner Manipulation):
 9. Successfully deploy and test the results.
 */
 
-// (already outdated, now that difficulty is 0 due to EIP-1559)
+// (already outdated, now that mainnet difficulty is 0)
 
 contract MyFirstRandomNumberGenerator {
 
