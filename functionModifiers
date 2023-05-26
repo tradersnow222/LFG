@@ -6,7 +6,8 @@ see the sender's (hint look up msg.value) requires to be greater than or equal
 to the price. Second hint, the function modifier should take an argument. */
 
 contract Owner {
-
+    //function modifiers
+    
     address owner;
     
     // upon deployment, set address to the owner (msg.sender)
@@ -44,6 +45,10 @@ contract Register is Owner {
     function register() public payable costs(price) {
         registeredAddresses[msg.sender] = true;
     }
+
+  // onlyOwner is the function modifier that requires
+  // only the owner to be able to change the price
+  
 
     function changePrice(uint _price) public onlyOwner {
         price = _price;
