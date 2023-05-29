@@ -1,0 +1,35 @@
+// Write a function that will return funds to two investors, john and tatianna without using a for loop!
+
+
+
+function returnFunds() public onlyOwner returns(bool success) {
+tatiana.transfer(contributedAmount); 
+john.transfer(contributedAmount);
+return true;
+}
+
+contract Victim {
+    function isItAContract() public view returns(bool) {
+        // if there bytes of code greater than zero then it is a contract! 
+        uint32 size;
+        address a = msg.sender;
+        // inline assembly accesses EVM Ethereum Virtual Machine at a low level 
+        assembly {
+        // extcodesize retrieves the size of the code 
+            size := extcodesize(a)
+        }
+        return(size > 0);
+    }    
+}
+
+contract Attacker {
+    bool public trickedYou;
+    Victim victim;
+    
+    constructor(address _v) public {
+        victim = Victim(_v);
+        trickedYou = !victim.isItAContract();
+    }
+}
+
+// note: if you call the address from the constructor there are no byte codes  
