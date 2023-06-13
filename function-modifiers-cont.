@@ -25,19 +25,22 @@ function getNewValue() external pure returns(uint) {
 
 contract pureView {
 
+    // The value to be set and manipulated
     uint value;
 
+    // Function to set the value
     function setValue(uint _value) external  {
-    value = _value;
+        value = _value;  // Set the value to the input value
     }
 
+    // A pure function that multiplies 3 and 7 and returns the result
     function multiply() external pure returns(uint) {
-        return 3 * 7;
+        return 3 * 7;  // Returns the product of 3 and 7
     }
 
+    // A view function that adds 3 to the value and returns the result
     function valuePlusThree() external view returns(uint) {
-        return value + 3;
+        return value + 3;  // Returns the current value plus 3
     }
-
-
 }
+
