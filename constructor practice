@@ -4,17 +4,15 @@ contract Member {
     string name;
     uint age;
 
-    //initialize name and age upon deployment
-
+    // Initialize name and age upon deployment
     constructor(string memory _name, uint _age) {
         name = _name;
         age = _age;
     }
 }
 
-contract Teacher is Member // ('Rachel', 28)
-{
-
+contract Teacher is Member {
+    // Inherit from Member and set default values ('Rachel', 28)
     constructor(string memory n, uint a) Member(n, a) {}
 
     function getAge() public view returns(uint) {
@@ -25,19 +23,20 @@ contract Teacher is Member // ('Rachel', 28)
 contract Base {
     uint data;
 
-     constructor(uint _data) {
-         data = _data;
-     }
-
-     function getData() public view returns(uint) {
-         return data;
-     }
-}
-
-contract Derived is Base (5){
-
-    function getBaseData () public pure returns(uint) {
-        return 5;
+    constructor(uint _data) {
+        data = _data;
     }
 
+    function getData() public view returns(uint) {
+        return data;
+    }
+}
+
+contract Derived is Base {
+    // Inherit from Base and set default value (5)
+    constructor() Base(5) {}
+
+    function getBaseData() public pure returns(uint) {
+        return 5;
+    }
 }
