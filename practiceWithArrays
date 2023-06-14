@@ -1,55 +1,53 @@
 pragma solidity ^0.8.0;
 
+// Define a new contract
 contract practiceWithArrays {
     
+    // Declare public arrays of unsigned integers
     uint[] public myArray;
     uint[] public myArray2;
+    // Declare a public array of unsigned integers with a fixed length of 200
     uint[200] public myFixedLengthArray;
 
-        function push(uint number) public {
-            myArray.push(number);
-        }
+    // Define a function to add a number to the end of myArray
+    function push(uint number) public {
+        myArray.push(number);
+    }
 
-        function pop() public {
-            myArray.pop();
-        }
+    // Define a function to remove the last element from myArray
+    function pop() public {
+        myArray.pop();
+    }
 
-        function getLength() public view returns (uint) {
-            return myArray.length;
-        }
+    // Define a function to get the length of myArray
+    function getLength() public view returns (uint) {
+        return myArray.length;
+    }
 
-        function remove(uint i) public {
-            delete myArray [i];
-        }
+    // Define a function to remove an element from myArray at a specific index
+    function remove(uint i) public {
+        delete myArray [i];
+    }
 
-        uint[] public changeArray;
+    // Declare another public array of unsigned integers
+    uint[] public changeArray;
 
+    // Define a function to remove an element from changeArray at a specific index
+    // This function replaces the element to be removed with the last element in the array, then removes the last element
+    function removeElement(uint i) public {
+        changeArray[i] = changeArray[changeArray.length - 1];
+        changeArray.pop();
+    }
 
-        function removeElement(uint i) public {
-            changeArray[i] = changeArray[changeArray.length - 1];
-            changeArray.pop();
-        }
-
-        function test() public {
-
-           /*
-            changeArray.push(1);
-            changeArray.push(2);
-            changeArray.push(3);
-            changeArray.push(4);
-            OR 
-            probs more efficient to just use this 'for' loop:
-            */
-
-            for(uint i = 1; i <=4; i++) {
+    // Define a function to add the numbers 1 through 4 to changeArray
+    function test() public {
+        for(uint i = 1; i <=4; i++) {
             changeArray.push(i);
-            }
         }
+    }
 
-        function getChangeArray() public view returns(uint[] memory) {
-            return changeArray;
-        }
+    // Define a function to get all elements in changeArray
+    function getChangeArray() public view returns(uint[] memory) {
+        return changeArray;
+    }
 }
-
-
-
