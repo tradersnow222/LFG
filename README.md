@@ -2,12 +2,24 @@
 
 This repo serves as an archive of my educational journey into web3 programming. 
 
-- (In progress: 140/192 lessons): [Udemy’s Complete Solidity Course Zero to Expert](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert)
-- [Coursera’s Foundations of UX Design (Google Career Certificate)](https://www.coursera.org/learn/foundations-user-experience-design)
+- (IN PROGRESS: 140/192 lessons): [Udemy’s Complete Solidity Course Zero to Expert](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert)
 - [Udemy's Complete Git and Github Beginner to Expert](https://www.udemy.com/course/complete-git-and-github-beginner-to-expert/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_95911180068_._ad_532194018659_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_9029652_._pd__._&matchtype=)
+- [CryptoZombies Solidity - Beginner](https://cryptozombies.io/en/course/)
 - [Udemy's GitHub Actions - The complete guide](https://www.udemy.com/course/github-actions-the-complete-guide/)
 - [Udemy's Git and Github Practical Guide](https://www.udemy.com/course/git-github-practical-guide/)
 - [Udemy's Git and GitHub Boot Camp](https://www.udemy.com/course/git-and-github-bootcamp/)
+- [CryptoZombies Solidity - Intermediate](https://cryptozombies.io/en/course/)	
+- [CryptoZombies Solidity - Advanced](https://cryptozombies.io/en/course/)
+- [SmartContractHacking - Web3 security 40-hour course](https://smartcontractshacking.com/?referral=owen)
 - [Alchemy’s 3 week Javascript fundamentals](https://university.alchemy.com/js)
 - [Alchemy’s 7 week Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
+- [Coursera Cryptography 1](https://www.coursera.org/learn/crypto?action=enroll)
+- [Coursera Cryptography 2](https://www.coursera.org/learn/crypto2)
+- Make at least 1 Legacy swap with 1inch API	
+- Make at least 1 swap with Fusion SDK	
+- Make at least 1 Limit Order swap with 1inch API
+- [Coursera’s Foundations of UX Design (Google Career Certificate)](https://www.coursera.org/learn/foundations-user-experience-design)
+- [Alchemy's 10 week Road to Web3 - dApp development](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3)
+
+
 
