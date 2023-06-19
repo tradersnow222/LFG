@@ -2,7 +2,7 @@
 
 This repo serves as an archive of my educational journey into web3 programming. 
 
-- (IN PROGRESS: 140/192 lessons): [Udemy’s Complete Solidity Course Zero to Expert](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert)
+- (IN PROGRESS: 153/192 lessons): [Udemy’s Complete Solidity Course Zero to Expert](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert)
 - [Udemy's Complete Git and Github Beginner to Expert](https://www.udemy.com/course/complete-git-and-github-beginner-to-expert/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_95911180068_._ad_532194018659_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_9029652_._pd__._&matchtype=)
 - [CryptoZombies Solidity - Beginner](https://cryptozombies.io/en/course/)
 - [Udemy's GitHub Actions - The complete guide](https://www.udemy.com/course/github-actions-the-complete-guide/)
