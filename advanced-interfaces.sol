@@ -40,7 +40,7 @@ contract myContract {
     }
 }
 
-/* Proof of successful test deployment: <https://ibb.co/Z1CXJyf>
+/* Proof of successful test deployment: <https://i.imgur.com/vV1gIE9.png>
 
 
 ------------------------------------------------------------------------------------------------
