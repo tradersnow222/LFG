@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.7.0 <0.9.0;
+
 /*
 ENTRANCE EXAM FOR ADVANCED SOLIDITY SECTIONS 1 & 2:
 
