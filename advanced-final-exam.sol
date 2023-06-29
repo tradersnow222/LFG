@@ -44,6 +44,8 @@ contract Auction {
     
     address payable public beneficiary;
     uint public auctionEndTime;
+    uint public reservePrice; 
+
     
     // current state of the auction 
     address public highestBidder;
@@ -55,13 +57,17 @@ contract Auction {
     event highestBidIncreased(address bidder, uint amount);
     event auctionEnded(address winner, uint amount);
     
-    constructor(uint _biddingTime, address payable _beneficiary) {
+    constructor(uint _biddingTime, address payable _beneficiary, uint _reservePrice) {
         beneficiary = _beneficiary;
         auctionEndTime = block.timestamp + _biddingTime; 
+        reservePrice = _reservePrice;
 }
 
     function bid() public payable {
         
+        // Check if bid is greater than reserve price
+        if(msg.value < reservePrice) revert('Bid is less than reserve price');
+
         if(block.timestamp > auctionEndTime) revert('the auction has ended!');
         
         if(msg.value <= highestbid) revert('sorry, the bid is not high enough!');
@@ -90,7 +96,8 @@ contract Auction {
     }
     
     function auctionEnd() public {
-        
+
+        if(highestbid < reservePrice) revert('Auction did not reach reserve price, not sold!');
         if(block.timestamp < auctionEndTime) revert('the auction has not ended yet!');
         if(ended) revert('the auction is already over!');
         
