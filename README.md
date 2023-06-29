@@ -1,4 +1,4 @@
-# This repo serves as a library of my educational journey into web3 programming
+# This repo follows my educational journey into web3 programming
    
 
                                     ,µ▄#▀µ⌐       <    '
