@@ -1,4 +1,5 @@
-# This repo follows my educational journey into web3 programming
+
+This repo tracks my educational journey into web3 programming</font>
    
 
                                     ,µ▄#▀µ⌐       <    '
