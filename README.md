@@ -26,12 +26,12 @@
                    -▄",' ,╙█▀«╫▓█╬▓ç██████████▄▄   ╙██
                    ²▄ ,╙▀╗▌⌐╩ ╙▄╙╫▓╠╬██████████████████▄
                     -     ╙█- "^ `╠▓╩╚╠████████████████████▄▄
-                          ^ ┘ ,;«Γ %╜╚/▀▒╠▀█████████████████████▄
-                         ` '  `   ▀█Q╗▀¼Q▄╠▓Q╙▀████████████████████
+                          ^ ┘ ,;«Γ %╜╚/▀▒╠▀███████████████████▀
+                         ` '  `   ▀█Q╗▀¼Q▄╠▓Q╙▀███████████████████
                             .   ¬wεⁿ└▀╚╬⌐o┘"└╫█▓▓██████████████████▀
                                         ^ Q     ,└¬w└.╙╙▀▀▀███▀▀▀└
-                                    `                &,%AΣ `.                   '
-    
+                                    `                &,%AΣ `.                   
+                                    
 
 - [COMPLETED] - [Udemy’s Complete Solidity Course Zero to Expert](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert)
   - [View Certification](https://www.udemy.com/certificate/UC-779b0f8a-c834-4e2c-aefc-3dcaae00a208/)
