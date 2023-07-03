@@ -40,8 +40,8 @@ This repo tracks my educational journey into web3 development
 - [COMPLETED] [Udemy's Complete Git and Github Beginner to Expert](https://www.udemy.com/course/complete-git-and-github-beginner-to-expert/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_95911180068_._ad_532194018659_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_9029652_._pd__._&matchtype=)
   - [View Certification]( https://www.udemy.com/certificate/UC-b70d8862-451d-401a-9582-90375d9cab8f/)
     
-- [IN PROGRESS] [CryptoZombies Solidity - Beginner](https://cryptozombies.io/en/course/)
-- [Udemy's GitHub Actions - The complete guide](https://www.udemy.com/course/github-actions-the-complete-guide/)
+- [COMPLETED] - [CryptoZombies Solidity - Beginner](https://cryptozombies.io/en/course/)
+- [IN PROGRESS] - [Udemy's GitHub Actions - The complete guide](https://www.udemy.com/course/github-actions-the-complete-guide/)
 - [Udemy's Git and Github Practical Guide](https://www.udemy.com/course/git-github-practical-guide/)
 - [Udemy's Git and GitHub Boot Camp](https://www.udemy.com/course/git-and-github-bootcamp/)
 - [CryptoZombies Solidity - Intermediate](https://cryptozombies.io/en/course/)	
