@@ -1,6 +1,5 @@
 
-This repo tracks my educational journey into web3 development
-   
+This repo tracks my educational journey into web3 development 
 
                                     ,µ▄#▀µ⌐       <    '
                             - ^   ε░╠╙▄#⌐' ., ;,⌐'   ▄▄»     æ-
@@ -31,8 +30,7 @@ This repo tracks my educational journey into web3 development
                          ` '  `   ▀█Q╗▀¼Q▄╠▓Q╙▀███████████████████
                             .   ¬wεⁿ└▀╚╬⌐o┘"└╫█▓▓██████████████████▀
                                         ^ Q     ,└¬w└.╙╙▀▀▀███▀▀▀└
-                                    `                &,%AΣ `.                   
-                                    
+                                    `                &,%AΣ `.                                                      
 
 - [COMPLETED] - [Udemy’s Complete Solidity Course Zero to Expert](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert)
   - [View Certification](https://www.udemy.com/certificate/UC-779b0f8a-c834-4e2c-aefc-3dcaae00a208/)
@@ -44,8 +42,8 @@ This repo tracks my educational journey into web3 development
 - [COMPLETED] - [Udemy's GitHub Actions - The complete guide](https://www.udemy.com/course/github-actions-the-complete-guide/)
 - [COMPLETED] - [Udemy's Git and Github Practical Guide](https://www.udemy.com/course/git-github-practical-guide/)
 - [COMPLETED] - [Udemy's Git and GitHub Boot Camp](https://www.udemy.com/course/git-and-github-bootcamp/)
-- [IN PROGRESS] - [CryptoZombies Solidity - Intermediate](https://cryptozombies.io/en/course/)	
-- [CryptoZombies Solidity - Advanced](https://cryptozombies.io/en/course/)
+- [COMPLETED] - [CryptoZombies Solidity - Intermediate](https://cryptozombies.io/en/course/)	
+- [IN PROGRESS] - [CryptoZombies Solidity - Advanced](https://cryptozombies.io/en/course/)
 - [SmartContractHacking - Web3 security 40-hour course](https://smartcontractshacking.com/?referral=owen)
 - [Alchemy’s 3 week Javascript fundamentals](https://university.alchemy.com/js)
 - [Alchemy’s 7 week Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
