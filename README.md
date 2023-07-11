@@ -14,6 +14,8 @@ This repo tracks my educational journey into web3 development.
 - [COMPLETED] - [Udemy's Git and GitHub Boot Camp](https://www.udemy.com/course/git-and-github-bootcamp/)
 - [COMPLETED] - [CryptoZombies Solidity - Intermediate](https://cryptozombies.io/en/course/)	
 - [IN PROGRESS] - [CryptoZombies Solidity - Advanced](https://cryptozombies.io/en/course/)
+- [IN PROGRESS] - [Udemy Blockchain Developer - Solidity AI-Powered Ultimate Course](https://www.udemy.com/course/blockchain-developer-solidity-ai-powered-ultimate-course/learn/lecture/38748294#overview)
+
 - [SmartContractHacking - Web3 security 40-hour course](https://smartcontractshacking.com/?referral=owen)
 - [Alchemy’s 3 week Javascript fundamentals](https://university.alchemy.com/js)
 - [Alchemy’s 7 week Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
