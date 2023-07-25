@@ -26,6 +26,7 @@ This repo tracks my educational journey into web3 development.
 - Make at least 1 Limit Order swap with 1inch API
 - [Coursera’s Foundations of UX Design (Google Career Certificate)](https://www.coursera.org/learn/foundations-user-experience-design)
 - [Alchemy's 10 week Road to Web3 - dApp development](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3)
+- [Securium - Certified Web3.0 Security Professional](https://www.securiumacademy.com/certified-web3-0-security-professional/)
 
 
 
