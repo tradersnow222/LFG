@@ -10,6 +10,8 @@ This repo tracks my educational journey into web3 development.
     
 - [COMPLETED] - [CryptoZombies Solidity - Beginner](https://cryptozombies.io/en/course/)
 - [COMPLETED] - [Udemy's GitHub Actions - The complete guide](https://www.udemy.com/course/github-actions-the-complete-guide/)
+  - [View Certification](https://udemy-certificate.s3.amazonaws.com/image/UC-02466df3-436e-4ef4-9488-a07ce9beea72.jpg)
+    
 - [COMPLETED] - [Udemy's Git and Github Practical Guide](https://www.udemy.com/course/git-github-practical-guide/)
 - [COMPLETED] - [Udemy's Git and GitHub Boot Camp](https://www.udemy.com/course/git-and-github-bootcamp/)
 - [COMPLETED] - [CryptoZombies Solidity - Intermediate](https://cryptozombies.io/en/course/)
