@@ -7,13 +7,17 @@ This repo tracks my educational journey into web3 development.
     
 - [COMPLETED] [Udemy's Complete Git and Github Beginner to Expert](https://www.udemy.com/course/complete-git-and-github-beginner-to-expert/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_95911180068_._ad_532194018659_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_9029652_._pd__._&matchtype=)
   - [View Certification]( https://www.udemy.com/certificate/UC-b70d8862-451d-401a-9582-90375d9cab8f/)
-    
-- [COMPLETED] - [CryptoZombies Solidity - Beginner](https://cryptozombies.io/en/course/)
+  
 - [COMPLETED] - [Udemy's GitHub Actions - The complete guide](https://www.udemy.com/course/github-actions-the-complete-guide/)
   - [View Certification](https://udemy-certificate.s3.amazonaws.com/image/UC-02466df3-436e-4ef4-9488-a07ce9beea72.jpg)
     
 - [COMPLETED] - [Udemy's Git and Github Practical Guide](https://www.udemy.com/course/git-github-practical-guide/)
+  - [View Certification](https://www.udemy.com/certificate/UC-857c73b1-c9f8-4c8b-8593-62d3f60f0fa0/)
+    
 - [COMPLETED] - [Udemy's Git and GitHub Boot Camp](https://www.udemy.com/course/git-and-github-bootcamp/)
+    - [View Certification](https://www.udemy.com/certificate/UC-33c208a4-9f02-4b89-97ab-ae5c90fe5030/)
+ 
+- [COMPLETED] - [CryptoZombies Solidity - Beginner](https://cryptozombies.io/en/course/)  
 - [COMPLETED] - [CryptoZombies Solidity - Intermediate](https://cryptozombies.io/en/course/)
 - [COMPLETED] - Make at least 1 Aggregation swap using 1inch API
 - [COMPLETED] - Make at least 1 Limit Order swap using 1inch API
